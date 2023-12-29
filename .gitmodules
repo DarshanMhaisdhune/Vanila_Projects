@@ -4,3 +4,6 @@
 [submodule "JS_ToDo"]
 	path = JS_ToDo
 	url = https://github.com/DarshanMhaisdhune/JS-TO_DO.git
+[submodule "Analog_clock"]
+	path = Analog_clock
+	url = https://github.com/DarshanMhaisdhune/Analog-Clock.git
