@@ -1,3 +1,6 @@
 [submodule "Number-Tap"]
 	path = Number-Tap
 	url = https://github.com/DarshanMhaisdhune/Number-Tap.git
+[submodule "JS_ToDo"]
+	path = JS_ToDo
+	url = https://github.com/DarshanMhaisdhune/JS-TO_DO.git
